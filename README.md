@@ -1,8 +1,5 @@
 # AIS3 2026 Course Materials
 
-> [!NOTE]
-> Lab 2 and Lab 3 are still being designed and are not the final versions. Please wait for the official release before using them.
-
 English | [繁體中文](README.zh-TW.md)
 
 Welcome to the AIS3 2026 material repository!
