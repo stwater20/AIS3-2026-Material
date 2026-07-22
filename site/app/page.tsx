@@ -25,10 +25,10 @@ const courses = [
     title: "當代理者\n被授予工具",
     line: "當推理開始碰觸真實世界，權限就是新的攻擊面。",
     tone: "agent",
-    status: "LAB PREVIEW · 尚在設計中，請待正式釋出",
     links: [
+      { label: "閱讀課堂筆記", href: "https://sectools.tw/archives/1777" },
       {
-        label: "預覽 Lab 02",
+        label: "開啟 Lab 02",
         href: `${repositoryUrl}/blob/main/Lab2_AgentSecurity.ipynb`,
       },
     ],
