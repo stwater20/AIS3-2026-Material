@@ -18,7 +18,7 @@ The following courses are taught by **Dr. Sheng-Shan Chen**. Labs and materials 
 | --- | --- | --- | --- |
 | July 22 (Wed.) | 15:30–16:30 | 模型為何開口，又為何選擇沉默 | [Course notes](https://sectools.tw/archives/1772) · [Lab 1](Lab1_ActivationSteering.ipynb) |
 | July 23 (Thu.) | 13:30–14:30 | 當代理者被授予工具 | [Course notes](https://sectools.tw/archives/1777) · [Lab 2](Lab2_AgentSecurity.ipynb) |
-| July 24 (Fri.) | 09:00–10:00 | 在答案成為真相以前 | — |
+| July 24 (Fri.) | 09:00–10:00 | 在答案成為真相以前 | [Course notes](https://sectools.tw/archives/1780) · [Lab 3](Lab3_LLM_Eval_and_Security.ipynb) |
 
 ## License
 

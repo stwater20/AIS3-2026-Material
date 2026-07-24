@@ -27,12 +27,13 @@ test("renders the complete AIS3 2026 landing page", async () => {
   assert.match(html, /在答案/);
   assert.match(html, /REFUSAL \/ BYPASS/);
   assert.match(html, /stwater20\/AIS3-2026-Material/);
+  assert.match(html, /https:\/\/sectools\.tw\/archives\/1780/);
   assert.match(html, /Lab3_LLM_Eval_and_Security\.ipynb/);
-  assert.match(html, /尚在設計中，請待正式釋出/);
+  assert.match(html, /開啟 Lab 03/);
   assert.match(html, /https:\/\/ais3-2026\.sectools\.tw\/og\.png/);
   assert.doesNotMatch(
     html,
-    /codex-preview|SkeletonPreview|react-loading-skeleton|\bVOICE\b|航線|躍遷|三幕/,
+    /codex-preview|SkeletonPreview|react-loading-skeleton|\bVOICE\b|航線|躍遷|三幕|尚在設計中|預覽 Lab 03/,
   );
 });
 

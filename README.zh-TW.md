@@ -19,7 +19,7 @@
 | --- | --- | --- | --- |
 | 7 月 22 日（三） | 15:30–16:30 | 模型為何開口，又為何選擇沉默 | [課程筆記](https://sectools.tw/archives/1772) · [Lab 1](Lab1_ActivationSteering.ipynb) |
 | 7 月 23 日（四） | 13:30–14:30 | 當代理者被授予工具 | [課程筆記](https://sectools.tw/archives/1777) · [Lab 2](Lab2_AgentSecurity.ipynb) |
-| 7 月 24 日（五） | 09:00–10:00 | 在答案成為真相以前 | — |
+| 7 月 24 日（五） | 09:00–10:00 | 在答案成為真相以前 | [課程筆記](https://sectools.tw/archives/1780) · [Lab 3](Lab3_LLM_Eval_and_Security.ipynb) |
 
 ## 授權方式
 

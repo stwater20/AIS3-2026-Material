@@ -41,10 +41,10 @@ const courses = [
     title: "在答案\n成為真相以前",
     line: "答案可以被生成，真相必須被驗證。",
     tone: "truth",
-    status: "LAB PREVIEW · 尚在設計中，請待正式釋出",
     links: [
+      { label: "閱讀課堂筆記", href: "https://sectools.tw/archives/1780" },
       {
-        label: "預覽 Lab 03",
+        label: "開啟 Lab 03",
         href: `${repositoryUrl}/blob/main/Lab3_LLM_Eval_and_Security.ipynb`,
       },
     ],
